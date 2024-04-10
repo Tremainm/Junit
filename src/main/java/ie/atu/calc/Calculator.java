@@ -5,4 +5,9 @@ public class Calculator {
     {
         return (first + second);
     }
+
+    public int multiply(int firstNo, int secondNo)
+    {
+        return (firstNo * secondNo);
+    }
 }
