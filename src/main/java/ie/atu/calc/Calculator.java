@@ -10,4 +10,9 @@ public class Calculator {
     {
         return (firstNo * secondNo);
     }
+
+    public int subtract(int firstNum, int secondNum)
+    {
+        return (firstNum - secondNum);
+    }
 }
